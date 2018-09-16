@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="D:\c#\home repo\c#.zip" Link="c#.zip" />
+    <Compile Include="D:\c#\home repo\Carclassestest.cs" Link="Carclassestest.cs" />
+  </ItemGroup>
+
+</Project>
